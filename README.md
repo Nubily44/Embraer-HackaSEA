@@ -1,2 +1,2 @@
 # Embraer-HackaSEA
-programas utilizado no Embraer HackaSEA 2023
+programas utilizados no Embraer HackaSEA 2023
